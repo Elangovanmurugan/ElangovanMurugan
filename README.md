@@ -24,4 +24,4 @@ Data Scientist roles in the UK.
 - 📍 Sheffield, UK
 - 💼 Open to Data Analyst, Junior Data Scientist, Business Analyst roles
 - 📚 Building Power BI and advanced SQL skills
-- 📫 Connect on [LinkedIn](https://linkedin.com)
+- 📫 Connect on [LinkedIn](https://www.linkedin.com/in/elangovan-murugan/)
